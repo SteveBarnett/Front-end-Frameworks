@@ -1,7 +1,11 @@
 
 # Front-end frameworks
 
-Taking an off-the-shelf front-end framework can greatly speed up your development time. Using them can come with a heavy cost, though. These frameworks are developed by teams to meet their needs at the time they built them. These needs might not match yours. If they match yours now, they might in a few months time.
+Taking an off-the-shelf front-end framework can greatly speed up your development time. Using them can come with a heavy cost, though. These frameworks are developed by teams to meet their needs at the time they built them. Their frameworks are built using their processes and are an expression of their opinions about the best ways to do things. These might not match yours. If they match yours now, they might not in a few months time.
+
+Think about the cost of using a framework against the benefits it provides. Consider the cost to your users. Using a framework may add a lot of developer convenience, but does it improve the users' experience?
+
+Prefer smaller frameworks, or ones that are modular. That way you can pick and choose the pieces that you want to use.
 
 The best way to have a tool that works for you is to write your own. For small things, find a site you like, and use your browser's Developer Tools to see how they built it.
 
