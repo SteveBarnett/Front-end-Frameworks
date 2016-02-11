@@ -47,9 +47,18 @@ If you want to pick and choose what things you're going to use, checl out [Pure]
 
 If you need some JavaScript, check out [MicroJS](http://microjs.com/) and [You Might Not Need jQuery](http://youmightnotneedjquery.com/).
 
+## Preprocessors
+
+There are a couple of well-known preprocessors: [Sass](http://sass-lang.com/), [Less](http://lesscss.org/), and [Stylus](http://stylus-lang.com/).
+
+They all have similar features, but Sass seems to be one of the most widely adopted. You don't have to use a preprocessor, but there are a couple of features that might make it worthwhile.
+
+**Variables** are very handy, **Nesting** selectors makes for much better readability (but don't nest too deeply), better use of **Media Queries** (write them inside a selector, rather than in big blocks by themselves). **Partials** let you write your CSS in a modular way, but compile them into one file at the end. You can also set an option to minify the final file.
+
+
 ## Preprocessor mixin libraries
 
-If you're using a preprocessor like [Sass](http://sass-lang.com/), there are a couple of mixin libraries that could be useful.
+If you are using a preprocessor there are a couple of mixin libraries that could be useful.
 
 * [Bourbon](http://bourbon.io/) is a library of Sass mixins for things like vendor prefixes, typographic scale, animation. Pairs well with [Bourbon Neat for grids](http://neat.bourbon.io/).
 * [Bitters](http://bitters.bourbon.io/) provides scaffolding for Bourbon projects, and [Refills](http://refills.bourbon.io/) helps build components and patterns for Bourbon and Neat projects.
