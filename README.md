@@ -16,3 +16,7 @@ Try and avoid using W3Schools as it is not the most reputable source, and has be
 If you're looking for some small and specific, try searching on [CodePen](http://codepen.io/), but bear in mind that code there tends to be experimental.
 
 There are [a lot of frameworks](http://usablica.github.io/front-end-frameworks/compare.html) of various sizes and for various use cases.
+
+---
+
+Next: [meta stuff](./meta-stuff.md). Styles of writing code and preprocessors.

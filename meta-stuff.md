@@ -13,3 +13,7 @@ There are a couple of well-known preprocessors: [Sass](http://sass-lang.com/), [
 They all have similar features, but Sass seems to be one of the most widely adopted. You don't have to use a preprocessor, but there are a couple of features that might make it worthwhile.
 
 **Variables** are very handy, **Nesting** selectors makes for much better readability (but don't nest too deeply), better use of **Media Queries** (write them inside a selector, rather than in big blocks by themselves). **Partials** let you write your CSS in a modular way, but compile them into one file at the end. You can also set an option to minify the final file.
+
+---
+
+Next: [frameworks](./frameworks.md).
