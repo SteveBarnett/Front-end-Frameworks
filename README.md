@@ -7,7 +7,7 @@ Think about the cost of using a framework against the benefits it provides. Cons
 
 Prefer smaller frameworks, or ones that are modular. That way you can pick and choose the pieces that you want to use.
 
-The best way to have a tool that works for you is to write your own. For small things, find a site you like, and use your browser's Developer Tools to see how they built it.
+The best way to have a tool that works for you is to write your own. For small things, find a site you like, and use your browser's Developer Tools to see how they built it. Eventually, you'll want to build up something like a [Style Guide](http://styleguides.io/) (more on that later).
 
 ## Learning resources
 
