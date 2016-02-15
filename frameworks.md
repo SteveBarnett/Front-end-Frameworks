@@ -1,5 +1,7 @@
 ## Boilerplates and helpers
 
+[![](img/h5bp.png)](https://html5boilerplate.com/) [![](img/typeplate.png)](http://typeplate.com/)
+
 A great starting point for a new web page is the [HTML5 Boilerplate](https://html5boilerplate.com/). Take some time to look through [the documentation](https://github.com/h5bp/html5-boilerplate/blob/5.3.0/dist/doc/TOC.md): every decision has solid reasoning behind, which they explain in detail.
 
 A good CSS baseline to start from is [Normalise](https://necolas.github.io/normalize.css/). It gives you more consistent rendering across a variety of browsers without resetting everything to zero. If you're particularly interested in typography, have a look at [TypePlate](http://typeplate.com/).
@@ -12,6 +14,8 @@ If you use [Sass](http://sass-lang.com/), [Susy](http://susy.oddbird.net/) is ve
 
 ## Small frameworks
 
+ [![](img/milligram.png)](http://milligram.github.io/) [![](img/bulma.png)](http://bulma.io/) [![](img/pure.png)](http://purecss.io/)
+
 [Milligram](http://milligram.github.io/) is a minimalist CSS framework. It's very light, but has few features. [Skeleton](http://getskeleton.com/) A dead simple, responsive boilerplate.
 
 If you want something with a bit more, try [Bulma](http://bulma.io/) (has more character) or [Furtive](http://furtive.co/) (more opinionated, designed more as a starting point).
@@ -21,6 +25,8 @@ If you want to pick and choose what things you're going to use, checl out [Pure]
 If you need some JavaScript, check out [MicroJS](http://microjs.com/) and [You Might Not Need jQuery](http://youmightnotneedjquery.com/).
 
 ## Preprocessor mixin libraries
+
+[![](img/bourbon.png)](http://bourbon.io/) [![](img/rucksack.png)](http://simplaio.github.io/rucksack/) [![](img/concise.png)](http://concisecss.com/)
 
 If you are using a preprocessor there are a couple of mixin libraries that could be useful.
 
@@ -34,6 +40,8 @@ If you are using a preprocessor there are a couple of mixin libraries that could
 [Google's Web Start Kit](https://developers.google.com/web/tools/starter-kit/) is full of modern front-end best practices, but makes a lot of assumptions: gulp, sass, concatenation and minification of CSS, concatenation and minification of JS, babel, browsersync, PageSpeed, Service Workers, npm.
 
 ## Full-on frameworks
+
+[![](img/bootstrap.png)](http://getbootstrap.com/) [![](img/foundation.png)](http://foundation.zurb.com/) [![](img/mdl.png)](http://www.getmdl.io/)
 
 If you do decide to use a big, off-the-shelf, Front-end framework, you use them by adding the appropriate `<link>` for the CSS at the top, and `<script>` for the JS at the bottom your HTML pages.
 
