@@ -41,7 +41,7 @@ If you are using a preprocessor there are a couple of mixin libraries that could
 
 ## Full-on frameworks
 
-[![](img/bootstrap.png)](http://getbootstrap.com/) [![](img/foundation.png)](http://foundation.zurb.com/) [![](img/mdl.png)](http://www.getmdl.io/)
+[![](img/bootstrap.png)](http://getbootstrap.com/) [![](img/foundation.png)](http://foundation.zurb.com/) [![](img/materialize.png)](http://materializecss.com/) [![](img/mdl.png)](http://www.getmdl.io/)
 
 If you do decide to use a big, off-the-shelf, Front-end framework, you use them by adding the appropriate `<link>` for the CSS at the top, and `<script>` for the JS at the bottom your HTML pages.
 
@@ -51,6 +51,6 @@ The other famous one is [Zurb's Foundation](http://foundation.zurb.com/). It has
 
 Both of these are great for doing prototypes: they let you put things together very quickly. They're not necessarily the best choice for your final application, though.
 
-A slightly lighter alternative is [Material Design Lite](http://www.getmdl.io/), based on Google's Material Design.
+An alternative to those two big hitters is [Materialize](http://materializecss.com/). A lighter alternative to that is [Material Design Lite](http://www.getmdl.io/). Both frameworks are based on [Google's Material Design](https://www.google.com/design/spec/material-design/introduction.html).
 
-Like Bootstrap and Foundation, it's quite opinionated about the visual design, and trying to stray from that will be difficult.
+Like Bootstrap and Foundation, they're quite opinionated about the visual design, and trying to stray from that will be difficult.
