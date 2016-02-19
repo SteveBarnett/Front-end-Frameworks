@@ -1,14 +1,15 @@
 <footer class="site-footer">
   <nav class="main-nav" id="menu">
     <ol>
-      {% assign currentpage = page.url %}
-      {% for page in site.pages %}
-        {% unless page.url contains ".css" %}
-          <li>
-            <a href="{{ site.baseurl }}{{ page.url }}" {% if currentpage == page.url %}class = "active"{% endif %}>{{ page.title }}</a>
-          </li>
-        {% endunless %}
-      {% endfor %}
+      <li{% if page.url == '/index.html' %} class="active"{% endif %}>
+        <a href="./index.html">Front-end Frameworks</a>
+      </li>
+      <li{% if page.url == '/meta-stuff.html' %} class="active"{% endif %}>
+        <a href="./meta-stuff.html">Styles of writing code</a>
+      </li>
+      <li{% if page.url == '/frameworks.html' %} class="active"{% endif %}>
+        <a href="./frameworks.html">Boilerplates and helpers</a>
+      </li>
     </ol>
   </nav>
 </footer>
