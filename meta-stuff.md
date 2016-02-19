@@ -1,3 +1,8 @@
+---
+layout: default
+title: Styles of writing code
+---
+
 ## Styles of writing code
 
 [![](img/smacss.png)](https://smacss.com/) [![](img/bem.png)](https://en.bem.info/)
@@ -20,4 +25,4 @@ They all have similar features, but Sass seems to be one of the most widely adop
 
 ---
 
-Next: [frameworks](./frameworks.md).
+Next: [frameworks](./frameworks.html).

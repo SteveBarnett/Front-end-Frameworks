@@ -1,3 +1,7 @@
+---
+layout: default
+title: Front-end Frameworks
+---
 
 # Front-end frameworks
 
@@ -21,4 +25,4 @@ There are [a lot of frameworks](http://usablica.github.io/front-end-frameworks/c
 
 ---
 
-Next: [meta stuff](./meta-stuff.md). Styles of writing code and preprocessors.
+Next: [meta stuff](./meta-stuff.html). Styles of writing code and preprocessors.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Boilerplates and helpers
+---
+
 ## Boilerplates and helpers
 
 [![](img/h5bp.png)](https://html5boilerplate.com/) [![](img/typeplate.png)](http://typeplate.com/)
