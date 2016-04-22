@@ -56,6 +56,4 @@ The other famous one is [Zurb's Foundation](http://foundation.zurb.com/). It has
 
 Both of these are great for doing prototypes: they let you put things together very quickly. They're not necessarily the best choice for your final application, though.
 
-An alternative to those two big hitters is [Materialize](http://materializecss.com/). A lighter alternative to that is [Material Design Lite](http://www.getmdl.io/). Both frameworks are based on [Google's Material Design](https://www.google.com/design/spec/material-design/introduction.html).
-
-Like Bootstrap and Foundation, they're quite opinionated about the visual design, and trying to stray from that will be difficult.
+An alternative to those two big hitters is [Materialize](http://materializecss.com/). A lighter alternative to that is [Material Design Lite](http://www.getmdl.io/). Both frameworks are based on [Google's Material Design](https://www.google.com/design/spec/material-design/introduction.html). Like Bootstrap and Foundation, they're quite opinionated about the visual design, and trying to stray from that will be difficult.
