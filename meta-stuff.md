@@ -25,4 +25,4 @@ They all have similar features, but Sass seems to be one of the most widely adop
 
 ---
 
-Next: [frameworks](./frameworks.html).
+Next: [frameworks](./frameworks.html) Boilerplates and helpers.
