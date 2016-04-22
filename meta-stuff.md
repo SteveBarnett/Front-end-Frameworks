@@ -5,11 +5,11 @@ title: Styles of writing code
 
 ## Styles of writing code
 
-[![](img/smacss.png)](https://smacss.com/) [![](img/bem.png)](https://en.bem.info/)
+[![](img/smacss.png)](https://smacss.com/) [![](img/bem.png)](https://en.bem.info/) [![](img/maintainablecss.png)](http://maintainablecss.com/)
 
 When writing code, it can be helpful to have an agreed upon style. Where do spaces go, and how many? Do you line break after the bracket or before it? Having a code style guide means it's easier to work as a team, and with future you.
 
-For CSS, the big ones are [SMACSS](https://smacss.com/) (Scalable and Modular Architecture for CSS); [OOCSS](http://oocss.org/) (Object-Oriented CSS); [BEM](https://en.bem.info/) (Block Element Modifier). Each is a different take on how to write classes and organise your CSS. There's no right or wrong way: just the way that makes sense to you and your team.
+For CSS, the big ones are [SMACSS](https://smacss.com/) (Scalable and Modular Architecture for CSS); [OOCSS](http://oocss.org/) (Object-Oriented CSS); [BEM](https://en.bem.info/) (Block Element Modifier). Each is a different take on how to write classes and organise your CSS. There's no right or wrong way: just the way that makes sense to you and your team. Along similar lines there's also [Maintainable CSS](http://maintainablecss.com/).
 
 For JavaScript, there are two main things to do: run [JS Hint](http://jshint.com/) to detect errors and potential problems; run [JSCS](http://jscs.info/) to enforce a style guide.
 
