@@ -19,9 +19,9 @@ If you use [Sass](http://sass-lang.com/), [Susy](http://susy.oddbird.net/) is ve
 
 ## Small frameworks
 
- [![](img/milligram.png)](http://milligram.github.io/) [![](img/bulma.png)](http://bulma.io/) [![](img/pure.png)](http://purecss.io/)
+ [![](img/milligram.png)](http://milligram.github.io/) [![](img/bulma.png)](http://bulma.io/) [![](img/pure.png)](http://purecss.io/) [![](img/cutestrap.jpg)](https://www.cutestrap.com/)
 
-[Milligram](http://milligram.github.io/) is a minimalist CSS framework. It's very light, but has few features. [Skeleton](http://getskeleton.com/) A dead simple, responsive boilerplate.
+[Milligram](http://milligram.github.io/) is a minimalist CSS framework. It's very light, but has few features. [Skeleton](http://getskeleton.com/) is dead simple, responsive boilerplate. [Cutestrap](https://www.cutestrap.com/) is a trimmed down, cuter, version of Bootstrap ([see below](#full-on-frameworks)).
 
 If you want something with a bit more, try [Bulma](http://bulma.io/) (has more character) or [Furtive](http://furtive.co/) (more opinionated, designed more as a starting point).
 
