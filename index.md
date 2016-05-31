@@ -19,11 +19,11 @@ Frameworks can have a **steep initial learning curve**, since they're solving a 
 
 Although most are customisable they tend to have a recognisable look which can mean **your site can have a generic look to it**. These frameworks are developed by teams to meet their needs at the time they built them.
 
-Despite being developed by big names in the industry, they sometimes **don't follow best practices** in terms of HTML (such as using unsemantic elements, being overly verbose, or not baking in accessibilty) and CSS (like selector usage, rule usage, and size of stylesheet).
+Despite being developed by big names in the industry, they sometimes **don't follow best practices** for HTML (such as using unsemantic elements, being overly verbose, or not baking in accessibilty) and CSS (like selector usage, rule usage, and size of stylesheet).
 
 Since the framework is designed to be a catch-all solution it can get large, which means large CSS and JS files. That means **slower loading pages and higher data usage** for your users.
 
-Your project probably won't use all of the features of the framework, which means **your users end up downloading CSS and JS that they don't need**.
+Your project probably won't use all the features of the framework, which means **your users end up downloading CSS and JS that they don't need**.
 
 Their frameworks are built using their processes and are an expression of their opinions about the best ways to do things. **These opinions might not match yours**. If they match yours now, they might not in a few months time.
 

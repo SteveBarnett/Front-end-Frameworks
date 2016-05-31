@@ -13,15 +13,15 @@ A good CSS baseline to start from is [Normalise](https://necolas.github.io/norma
 
 ## Grid systems
 
-If you just want some help putting together a solid grid, you can use [Gridly](http://ionicabizau.github.io/gridly/example/), a minimal grid system.
+If you want some help putting together a solid grid, you can use [Gridly](http://ionicabizau.github.io/gridly/example/), a minimal grid system.
 
-If you use [Sass](http://sass-lang.com/), [Susy](http://susy.oddbird.net/) is very handy. It's a set of tools for creating powerful custom grid layouts.
+If you use [Sass](http://sass-lang.com/), [Susy](http://susy.oddbird.net/) is handy. It's a set of tools for creating powerful custom grid layouts.
 
 ## Small frameworks
 
  [![](img/milligram.png)](http://milligram.github.io/) [![](img/bulma.png)](http://bulma.io/) [![](img/pure.png)](http://purecss.io/) [![](img/cutestrap.jpg)](https://www.cutestrap.com/)
 
-[Milligram](http://milligram.github.io/) is a minimalist CSS framework. It's very light, but has few features. [Skeleton](http://getskeleton.com/) is dead simple, responsive boilerplate. [Cutestrap](https://www.cutestrap.com/) is a trimmed down, cuter, version of Bootstrap ([see below](#full-on-frameworks)).
+[Milligram](http://milligram.github.io/) is a minimalist CSS framework. It's light, but has few features. [Skeleton](http://getskeleton.com/) is a straightforward, responsive boilerplate. [Cutestrap](https://www.cutestrap.com/) is a trimmed down, cuter, version of Bootstrap ([see below](#full-on-frameworks)).
 
 If you want something with a bit more, try [Bulma](http://bulma.io/) (has more character) or [Furtive](http://furtive.co/) (more opinionated, designed more as a starting point).
 
@@ -48,12 +48,13 @@ If you are using a preprocessor there are a couple of mixin libraries that could
 
 [![](img/bootstrap.png)](http://getbootstrap.com/) [![](img/foundation.png)](http://foundation.zurb.com/) [![](img/materialize.png)](http://materializecss.com/) [![](img/mdl.png)](http://www.getmdl.io/)
 
-If you do decide to use a big, off-the-shelf, Front-end framework, you use them by adding the appropriate `<link>` for the CSS at the top, and `<script>` for the JS at the bottom your HTML pages.
+If you do decide to use a big, off-the-shelf, Front-end framework, you use them by adding the `<link>` for the CSS at the top, and `<script>` for the JS at the bottom your HTML pages.
 
+<!--codex ignore all-->
 Twitter's [Bootstrap](http://getbootstrap.com/) is one of the most widely known and widely used HTML, CSS, and JS frameworks. It's easiest to use all of Bootstrap, not pieces of it. When you try and use pieces, or try and add extra bits to it, things get tricky. It can be a bit heavy, depending on your needs.
 
 The other famous one is [Zurb's Foundation](http://foundation.zurb.com/). It has pretty much the same ups and down as Bootstrap.
 
-Both of these are great for doing prototypes: they let you put things together very quickly. They're not necessarily the best choice for your final application, though.
+Both of these are great for doing prototypes: they let you put things together quickly. They're not necessarily the best choice for your final application, though.
 
 An alternative to those two big hitters is [Materialize](http://materializecss.com/). A lighter alternative to that is [Material Design Lite](http://www.getmdl.io/). Both frameworks are based on [Google's Material Design](https://www.google.com/design/spec/material-design/introduction.html). Like Bootstrap and Foundation, they're quite opinionated about the visual design, and trying to stray from that will be difficult.
